@@ -653,7 +653,7 @@ spec:
         - $formkit: url
           name: introductionUrl
           validation: "url"
-          value: "https://github.com/liuzhihang/halo-theme-hao"
+          value: "https://github.com/xiaohe243315/halo"
           label: 介绍框点击跳转地址
           placeholder: 请输入跳转 url
 
